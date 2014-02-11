@@ -1,0 +1,33 @@
+name = Daemon
+description = Tema de trabajo para los sitios que desarrolla @pineiden
+base theme = ohm
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; ========================================
+; Stylesheets
+; ========================================
+stylesheets[all][] = css/daemon.normalize.css
+stylesheets[all][] = css/daemon.hacks.css
+stylesheets[all][] = css/daemon.styles.css
+stylesheets[all][] = css/daemon.no-query.css
+
+; ========================================
+; Scripts
+; ========================================
+scripts[] = js/daemon.behaviors.js
+
+; ========================================
+; Regions
+; ========================================
+regions[branding] = Branding
+regions[navigation] = Navigation bar
+regions[header] = Header
+regions[hero] = Hero
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = First sidebar
+regions[sidebar_second] = Second sidebar
+regions[footer] = Footer
