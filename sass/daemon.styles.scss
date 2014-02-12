@@ -20,3 +20,38 @@
 @import "abstractions/**/*";
 @import "base/**/*";
 @import "components/**/*";
+
+.site-branding__logo {
+    margin-right: .2em;
+    width: 100px;
+}
+
+.site-branding__name {
+    color: #FFFFFF;
+    display: inline-flex;
+    top: 3.2rem;
+    position: absolute;
+    text-decoration: none;
+    #nombre-sitio{
+    	   	font-size :2rem;
+
+    }
+    #universidad{
+    		position: absolute;
+    		top: 4.2rem;
+    	   	font-size :1.6rem;
+    	   	text-transform: none;
+    }
+}
+
+h2.site-branding__slogan {
+    top: 7.5rem;
+    position: absolute;
+    display: inline-flex;
+    font-size:1rem;
+   	text-transform: none;
+}
+
+.l-branding {
+	    width: 40%;
+}

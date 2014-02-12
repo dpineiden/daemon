@@ -1,5 +1,37 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/base\/_media\.scss}line{font-family:\000031}}
 img, media {
-  max-width: 100%;
-}
+  max-width: 100%; }
 
-/* No files to import found in partials/components/**\/* */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000324}}
+.site-branding__logo {
+  margin-right: .2em;
+  width: 100px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000329}}
+.site-branding__name {
+  color: #FFFFFF;
+  display: inline-flex;
+  top: 3.2rem;
+  position: absolute;
+  text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000335}}
+  .site-branding__name #nombre-sitio {
+    font-size: 2rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000339}}
+  .site-branding__name #universidad {
+    position: absolute;
+    top: 4.2rem;
+    font-size: 1.6rem;
+    text-transform: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000347}}
+h2.site-branding__slogan {
+  top: 7.5rem;
+  position: absolute;
+  display: inline-flex;
+  font-size: 1rem;
+  text-transform: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000355}}
+.l-branding {
+  width: 40%; }
