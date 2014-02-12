@@ -29,13 +29,17 @@
 .site-branding__name {
     color: #FFFFFF;
     display: inline-flex;
-    top: 3.2rem;
+    top: -0.8rem;
     position: absolute;
     text-decoration: none;
     #nombre-sitio{
     	   	font-size :2rem;
-
+    	   	color: black;
+   &:hover{
+    	color: white;
     }
+    }
+
     #universidad{
     		position: absolute;
     		top: 4.2rem;
@@ -45,13 +49,14 @@
 }
 
 h2.site-branding__slogan {
-    top: 7.5rem;
+    top: 3.5rem;
     position: absolute;
     display: inline-flex;
     font-size:1rem;
    	text-transform: none;
+   	margin-top: 10px;
 }
 
 .l-branding {
-	    width: 40%;
+	    width: 60%;
 }
