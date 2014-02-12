@@ -12,7 +12,7 @@ img, media {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000331}}
   .l-branding.site-branding .site-branding__name {
     color: #FFFFFF;
-    top: -3.0rem;
+    top: 1rem;
     position: absolute;
     margin-left: 8.1rem;
     width: 25rem; }
@@ -21,7 +21,7 @@ img, media {
       font-size: 3.1rem;
       color: black;
       position: absolute;
-      top: 1.3rem; }
+      top: 1.4rem; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000343}}
       .l-branding.site-branding .site-branding__name #nombre-sitio:hover {
         color: white; }
