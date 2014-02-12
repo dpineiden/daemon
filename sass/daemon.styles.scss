@@ -30,7 +30,6 @@
 	}
 	.site-branding__name {
     	color: #FFFFFF;
-    	top: 1rem;
   		position: absolute;
   		margin-left: 8.1rem;
     	width: 25rem;
@@ -39,7 +38,7 @@
     	   	font-size :3.1rem;
     	   	color: black;
     	   	position:absolute;
-    	   	top:1.4rem;
+    	   	margin-top:.2rem;
    		&:hover{
     		color: white;
     	}
@@ -47,7 +46,7 @@
 
     #universidad{
     		position: relative;
-    		top: 7rem;
+    		margin-top: 3rem;
     	   	font-size :2.43rem;
     	   	text-transform: none;
     	   	color: gray;
@@ -59,11 +58,10 @@
 
 	h2.site-branding__slogan {
 		width: 36rem;
-    	top: 4rem;
     	position: relative ;
     	font-size:1.55rem;
    		text-transform: none;
-   		margin-top: 10px;
+   		margin-top: 6rem;
 	}
 }
 

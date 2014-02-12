@@ -12,34 +12,32 @@ img, media {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000331}}
   .l-branding.site-branding .site-branding__name {
     color: #FFFFFF;
-    top: 1rem;
     position: absolute;
     margin-left: 8.1rem;
     width: 25rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000337}}
     .l-branding.site-branding .site-branding__name #nombre-sitio {
       font-size: 3.1rem;
       color: black;
       position: absolute;
-      top: 1.4rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000343}}
+      margin-top: .2rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000342}}
       .l-branding.site-branding .site-branding__name #nombre-sitio:hover {
         color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000348}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000347}}
     .l-branding.site-branding .site-branding__name #universidad {
       position: relative;
-      top: 7rem;
+      margin-top: 3rem;
       font-size: 2.43rem;
       text-transform: none;
       color: gray; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000353}}
       .l-branding.site-branding .site-branding__name #universidad:hover {
         color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000359}}
   .l-branding.site-branding h2.site-branding__slogan {
     width: 36rem;
-    top: 4rem;
     position: relative;
     font-size: 1.55rem;
     text-transform: none;
-    margin-top: 10px; }
+    margin-top: 6rem; }
