@@ -3,40 +3,43 @@ img, media {
   max-width: 100%; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000324}}
-.site-branding__logo {
-  margin-right: .2em;
-  width: 100px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000329}}
-.site-branding__name {
-  color: #FFFFFF;
-  display: inline-flex;
-  top: -0.8rem;
-  position: absolute;
-  text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000335}}
-  .site-branding__name #nombre-sitio {
-    font-size: 2rem;
-    color: black; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000338}}
-    .site-branding__name #nombre-sitio:hover {
-      color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000343}}
-  .site-branding__name #universidad {
-    position: absolute;
-    top: 4.2rem;
-    font-size: 1.6rem;
-    text-transform: none; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000351}}
-h2.site-branding__slogan {
-  top: 3.5rem;
-  position: absolute;
-  display: inline-flex;
-  font-size: 1rem;
-  text-transform: none;
-  margin-top: 10px; }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000360}}
-.l-branding {
+.l-branding.site-branding {
   width: 60%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000327}}
+  .l-branding.site-branding .site-branding__logo {
+    margin-right: .2rem;
+    width: 8rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000331}}
+  .l-branding.site-branding .site-branding__name {
+    color: #FFFFFF;
+    top: -3.0rem;
+    position: absolute;
+    margin-left: 8.1rem;
+    width: 25rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000338}}
+    .l-branding.site-branding .site-branding__name #nombre-sitio {
+      font-size: 3.1rem;
+      color: black;
+      position: absolute;
+      top: 1.3rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000343}}
+      .l-branding.site-branding .site-branding__name #nombre-sitio:hover {
+        color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000348}}
+    .l-branding.site-branding .site-branding__name #universidad {
+      position: relative;
+      top: 7rem;
+      font-size: 2.43rem;
+      text-transform: none;
+      color: gray; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000354}}
+      .l-branding.site-branding .site-branding__name #universidad:hover {
+        color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000360}}
+  .l-branding.site-branding h2.site-branding__slogan {
+    width: 36rem;
+    top: 4rem;
+    position: relative;
+    font-size: 1.55rem;
+    text-transform: none;
+    margin-top: 10px; }
