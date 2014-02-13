@@ -1,43 +1,50 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/base\/_media\.scss}line{font-family:\000031}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/base\/_media\.scss}line{font-family:\000031}}
 img, media {
   max-width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000324}}
-.l-branding.site-branding {
-  width: 60%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000327}}
-  .l-branding.site-branding .site-branding__logo {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000324}}
+.l-region.l-region--branding.region--debug.region--debug--branding {
+  height: 8rem;
+  width: 32rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000329}}
+.site-branding {
+  width: 45%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000332}}
+  .site-branding .site-branding__logo {
     margin-right: .2rem;
     width: 8rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000331}}
-  .l-branding.site-branding .site-branding__name {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000337}}
+  .site-branding .bloque-sitio-nombre-slogan {
+    font-family: Maven Pro;
     color: #FFFFFF;
     position: absolute;
     margin-left: 8.1rem;
     width: 25rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000337}}
-    .l-branding.site-branding .site-branding__name #nombre-sitio {
-      font-size: 3.1rem;
-      color: black;
-      position: absolute;
-      margin-top: .2rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000342}}
-      .l-branding.site-branding .site-branding__name #nombre-sitio:hover {
-        color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000347}}
-    .l-branding.site-branding .site-branding__name #universidad {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000344}}
+    .site-branding .bloque-sitio-nombre-slogan #nombre-sitio {
+      color: #000000;
+      font-size: 4rem;
+      margin-top: 0rem;
       position: relative;
-      margin-top: 3rem;
-      font-size: 2.43rem;
+      top: 0.1em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000350}}
+      .site-branding .bloque-sitio-nombre-slogan #nombre-sitio:hover {
+        color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000355}}
+    .site-branding .bloque-sitio-nombre-slogan #universidad {
+      position: absolute;
+      top: 3.8rem;
+      font-size: 2.5rem;
       text-transform: none;
       color: gray; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000353}}
-      .l-branding.site-branding .site-branding__name #universidad:hover {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000361}}
+      .site-branding .bloque-sitio-nombre-slogan #universidad:hover {
         color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000359}}
-  .l-branding.site-branding h2.site-branding__slogan {
-    width: 36rem;
-    position: relative;
-    font-size: 1.55rem;
-    text-transform: none;
-    margin-top: 6rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000365}}
+    .site-branding .bloque-sitio-nombre-slogan #slogan {
+      width: 36rem;
+      position: relative;
+      margin-top: 5rem;
+      font-size: 1.6rem;
+      text-transform: none; }
