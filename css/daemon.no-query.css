@@ -29,19 +29,27 @@ img, media {
       position: relative;
       top: 0.1em; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000350}}
-      .site-branding .bloque-sitio-nombre-slogan #nombre-sitio:hover {
-        color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000355}}
+      .site-branding .bloque-sitio-nombre-slogan #nombre-sitio a {
+        color: black;
+        text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000353}}
+        .site-branding .bloque-sitio-nombre-slogan #nombre-sitio a:hover {
+          color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000358}}
     .site-branding .bloque-sitio-nombre-slogan #universidad {
       position: absolute;
       top: 3.8rem;
       font-size: 2.5rem;
       text-transform: none;
       color: gray; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000361}}
-      .site-branding .bloque-sitio-nombre-slogan #universidad:hover {
-        color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000365}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000364}}
+      .site-branding .bloque-sitio-nombre-slogan #universidad a {
+        color: gray;
+        text-decoration: none; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000367}}
+        .site-branding .bloque-sitio-nombre-slogan #universidad a:hover {
+          color: white; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000372}}
     .site-branding .bloque-sitio-nombre-slogan #slogan {
       width: 36rem;
       position: relative;
