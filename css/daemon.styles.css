@@ -2,54 +2,73 @@
 img, media {
   max-width: 100%; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000325}}
+.l-region--navigation {
+  width: 100%;
+  position: absolute;
+  width: 100%;
+  float: left;
+  margin-right: 0%;
+  margin-left: 0%;
+  z-index: 1;
+  top: -3.0rem; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000335}}
+  .l-region--navigation .menu-central {
+    position: relative; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000339}}
+.l-header {
+  position: relative;
+  top: 3rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000345}}
 .l-region.l-region--branding.region--debug.region--debug--branding {
   height: 8rem;
   width: 32rem; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000329}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000350}}
 .site-branding {
   width: 45%; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000353}}
   .site-branding .site-branding__logo {
     margin-right: .2rem;
     width: 8rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000358}}
   .site-branding .bloque-sitio-nombre-slogan {
     font-family: Maven Pro;
     color: #FFFFFF;
     position: absolute;
     margin-left: 8.1rem;
     width: 25rem; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000365}}
     .site-branding .bloque-sitio-nombre-slogan #nombre-sitio {
       color: #000000;
       font-size: 4rem;
       margin-top: 0rem;
       position: relative;
       top: 0.1em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000371}}
       .site-branding .bloque-sitio-nombre-slogan #nombre-sitio a {
         color: black;
         text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000374}}
         .site-branding .bloque-sitio-nombre-slogan #nombre-sitio a:hover {
           color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000358}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000379}}
     .site-branding .bloque-sitio-nombre-slogan #universidad {
       position: absolute;
       top: 3.8rem;
       font-size: 2.5rem;
       text-transform: none;
       color: gray; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000385}}
       .site-branding .bloque-sitio-nombre-slogan #universidad a {
         color: gray;
         text-decoration: none; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000388}}
         .site-branding .bloque-sitio-nombre-slogan #universidad a:hover {
           color: white; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\0000393}}
     .site-branding .bloque-sitio-nombre-slogan #slogan {
       width: 36rem;
       position: relative;
