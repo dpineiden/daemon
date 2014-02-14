@@ -82,3 +82,8 @@ img, media {
       margin-top: 5rem;
       font-size: 1.6rem;
       text-transform: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003112}}
+.l-main.l-constrained {
+  position: relative;
+  top: 1rem; }
