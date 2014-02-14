@@ -90,4 +90,5 @@ img, media {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003118}}
 .teaser-ultimos-articulos {
-  vertical-align: sub; }
+  vertical-align: sub;
+  width: 30%; }
