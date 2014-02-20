@@ -134,7 +134,8 @@ padding: 0.75em 1em;
       .fila-ultimos-articulos{
 
         width:100%;
-
+          margin-left:5%;
+          margin-right:5%;
         float:left;
 
       }
@@ -158,7 +159,7 @@ padding: 0.75em 1em;
         float:left;
 
         &:nth-child(2n - 1) {
-
+          margin-left:5%;
           margin-right:5%;
 
         }
