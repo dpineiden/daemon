@@ -117,9 +117,90 @@ padding: 0.75em 1em;
 //se fija el teaser ajustado arriba
 .teaser-ultimos-articulos {
     vertical-align: sub;
-    width: 30%//100/n 
+    width: 30%;//100/n 
+    float:left;
 }
 //texto de teaser justificado
     .teaser-front {
     text-align: justify;
+}
+
+@media all and (max-width: 479px) {
+
+  .ultimos-articulos {
+
+    .view-content {
+
+      .fila-ultimos-articulos{
+
+        width:100%;
+
+        float:left;
+
+      }
+
+    }
+
+  }
+
+}
+
+@media all and (min-width: 300px) and (max-width: 959px) {
+
+  .ultimos-articulos{
+
+    .view-content {
+
+      .fila-ultimos-articulos {
+
+        width:45%;
+
+        float:left;
+
+        &:nth-child(2n - 1) {
+
+          margin-right:5%;
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+@media all and (min-width: 960px) {
+
+  .ultimos-articulos {
+
+    .view-content {
+
+      .fila-ultimos-articulos {
+
+        float:left;
+
+        width:32%;
+
+        &:nth-child(3n - 1) {
+
+          margin-right:2%;
+
+          margin-left:2%;
+
+        }
+
+        &:nth-child(3n + 1) {
+
+          clear:left;
+
+        }
+
+      }
+
+    }
+
+  }
+
 }

@@ -91,8 +91,35 @@ img, media {
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003118}}
 .teaser-ultimos-articulos {
   vertical-align: sub;
-  width: 30%; }
+  width: 30%;
+  float: left; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003123}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003124}}
 .teaser-front {
   text-align: justify; }
+
+@media all and (max-width: 479px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003134}}
+  .ultimos-articulos .view-content .fila-ultimos-articulos {
+    width: 100%;
+    float: left; } }
+@media all and (min-width: 300px) and (max-width: 959px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003154}}
+  .ultimos-articulos .view-content .fila-ultimos-articulos {
+    width: 45%;
+    float: left; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003160}}
+    .ultimos-articulos .view-content .fila-ultimos-articulos:nth-child(2n - 1) {
+      margin-right: 5%; } }
+@media all and (min-width: 960px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003180}}
+  .ultimos-articulos .view-content .fila-ultimos-articulos {
+    float: left;
+    width: 32%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003186}}
+    .ultimos-articulos .view-content .fila-ultimos-articulos:nth-child(3n - 1) {
+      margin-right: 2%;
+      margin-left: 2%; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/david\/Documents\/web_PC\/sites\/omega\.cea\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003194}}
+    .ultimos-articulos .view-content .fila-ultimos-articulos:nth-child(3n + 1) {
+      clear: left; } }
