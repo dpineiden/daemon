@@ -125,7 +125,7 @@ padding: 0.75em 1em;
     text-align: justify;
 }
 
-@media all and (max-width: 479px) {
+@media all and (max-width: 649px) {
 
   .ultimos-articulos {
 
@@ -145,7 +145,7 @@ padding: 0.75em 1em;
 
 }
 
-@media all and (min-width: 300px) and (max-width: 959px) {
+@media all and (min-width: 650px) and (max-width: 959px) {
 
   .ultimos-articulos{
 
@@ -181,13 +181,13 @@ padding: 0.75em 1em;
 
         float:left;
 
-        width:32%;
+        width:30%;
 
         &:nth-child(3n - 1) {
 
-          margin-right:2%;
+          margin-right:5%;
 
-          margin-left:2%;
+          margin-left:5%;
 
         }
 
