@@ -128,7 +128,7 @@ img, media {
       clear: left; } }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003212}}
 .l-region--footer {
-  display: inline-flex; }
+  display: flex; }
 @media -sass-debug-info{filename{font-family:file\:\/\/\/home\/bicho\/web\/drupal-7\/sites\/proyecto\.drupal\/themes\/daemon\/sass\/daemon\.styles\.scss}line{font-family:\00003215}}
   .l-region--footer box-align:center
   .licencia-copyleft-procomun {
