@@ -205,3 +205,22 @@ padding: 0.75em 1em;
   }
 
 }
+
+//CSS Footer
+
+
+.l-region--footer {
+    display: inline-flex;
+    box-align:center
+    .licencia-copyleft-procomun{
+    right: 2rem;
+    }
+    .contactar {
+    left: 2rem;
+    width: 110px;
+    }    
+    .hecho-con-drupal {
+    left: 2rem;
+    position: relative;
+    }
+}
